@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "azure-devops-client-side-solution",
+    "id": "4dbc52df-c98e-4f22-ab16-8ce44a1dbb3d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/azure-devops.sppkg"
+  }
+}
